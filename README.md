@@ -17,8 +17,6 @@ Analyzed 10-year historical installation numbers of solar panels and batteries t
 ## Other Projects 
 ### Data Analytics: Optimization Projects
 #### Allocating Market Budget 
-[Project Link](https://github.com/mengjia-sun/mengjiasun.github.io/blob/main/Projects/BAX%20358/BAX%20358%20Project%20Code.ipynb)
-
 Finding the optimized allocation that maximizes the total return on investment on 10 different marketing platforms. 
 
 #### Minimizing Total Distance Traveled 
