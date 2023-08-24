@@ -31,5 +31,8 @@ Variable selection is an integral part of predictive analytics as it improves th
 
 
 ### Data Analytics: Predictive Analytics Projects 
-
 #### Hall of Fame Predictor for Basketball Memorabilia Investments
+
+
+### Communication and Public Opinion: Misinformation Project
+#### Fact-checking’s effect on correcting misinformation on Twitter: a study on people’s reactions 
